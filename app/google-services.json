@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "394011660765",
+    "firebase_url": "https://friendlyfood-14936.firebaseio.com",
+    "project_id": "friendlyfood-14936",
+    "storage_bucket": "friendlyfood-14936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394011660765:android:71fd43bb93768389",
+        "android_client_info": {
+          "package_name": "dev.hugo.friendlyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394011660765-dtufhv2eauv14ts61umiipjkpu4c8r37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJoKzfrxhsR-XQ1h2WDZ0hazCXHevkAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
